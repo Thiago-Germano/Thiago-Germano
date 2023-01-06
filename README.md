@@ -1,4 +1,4 @@
-   <img src="imagem/header.png">
+   <img src="header.png">
 
 <div>
  <h2>🇧🇷 Sobre mim 😁 </h2>
