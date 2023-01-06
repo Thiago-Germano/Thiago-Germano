@@ -1,10 +1,10 @@
-   <img src="header.png">
+   <img src="imagem/header.png">
 
 <div>
  <h2>🇧🇷 Sobre mim 😁 </h2>
  
 - 👨🏽‍🎓   Bacharelando em <b> Ciência da Computação </b> na unipê 
-- 😍  Amo colocar na pratica o que aprendi, também adoro estudar scripts   
+- 😍  Adoro Resolver problemas/desafios de programação, pois assim sempre acabo achando uma maneira diferente de tornar meus projetos mais eficaz
 - ⚽️  No tempo livre tento ficar um pouco desplugado, ler um livro ou praticar um esporte(🏄🏽 surf é meu esporte favorito🏄🏽 )
 - 🦾  A ultima area que atuei foi em QA(Quality Assurance)
 </div>
