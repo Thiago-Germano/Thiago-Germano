@@ -38,7 +38,7 @@
    <img width="450" height="200"src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgn76ok&layout=compact&langs_count=7&line_height=30&theme=blue-green"/> 
 
    
-   ![Views](https://komarev.com/ghpvc/?username=tgn76ok) 
+
    
    
    
